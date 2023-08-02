@@ -14,3 +14,9 @@ margin: 10px;
 font-size: 22px;
 color: black;
 }
+main h2 {
+    text-align: center;
+    font-weight: 700;
+    font-size:40px;
+}
+    
