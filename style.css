@@ -19,6 +19,6 @@ main h2 {
     font-weight: 700;
     font-size:40px;
 }
-    main p {
+    .h2class {
         color:orange;
     }
