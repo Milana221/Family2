@@ -1,1 +1,16 @@
-
+body {
+    font-family: sans-serif;
+}
+header {
+    background-color:#0776a0;
+    padding: 10px;
+}
+header a {
+text-decoration: none;
+background-color: #f8b100;
+border-radius:5px;
+padding: 3px;
+margin: 10px;
+font-size: 22px;
+color: black;
+}
