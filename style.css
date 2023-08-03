@@ -20,7 +20,7 @@ color: black;
     font-size:40px;
 }
     .h2class {
-        color:orange;
+        color: orange;
     }
  }  
 footer {
@@ -28,7 +28,7 @@ footer {
     background-color:#39829c ;
 }
 footer p {
-    font-size: 20px;
+    font-size 20px;
     margin: 20px;
     color: white;
 }
